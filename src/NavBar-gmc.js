@@ -10,12 +10,7 @@ function NavBar() {
                 </a>
                 <image className='candyimage' src={candy} height={110} width={105}/>
             
-            <ul>
-                <li className='Dashboard'>
-                    <a className='Dashtext' href="/dashboard">Dashboard</a>
-                </li>
-                
-            </ul>
+            
             <button className='ConnectWalletButtonNav'>Connect Wallet</button>
         </nav>
         </div>

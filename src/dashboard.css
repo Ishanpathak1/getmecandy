@@ -1,4 +1,4 @@
-.ForImageOuput {
+.ForImageOutput {
   position: absolute;
   width: 446px;
   height: 220px;
@@ -27,6 +27,23 @@
 
   color: #008b7d;
 }
+.ForNameText{
+  position: absolute;
+  
+  
+  left: 755px;
+  top: 406px;
+  
+  
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 55px;
+  text-align: center;
+
+  color: #008b7d;
+}
 .ForBioOutput {
   position: absolute;
   width: 446px;
@@ -46,6 +63,21 @@
 
   color: #008b7d;
 }
+.ForBioText{
+  position: absolute;
+  width: 64.24px;
+  height: 41.59px;
+  left: 594.27px;
+  top: 495.32px;
+  
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  
+  color: #008B7D;
+}
 .ForCandy {
   position: absolute;
   width: 351px;
@@ -62,7 +94,7 @@
   position: absolute;
   width: 134px;
   height: 50px;
-  left: 713px;
+  left: 705px;
   top: 663px;
   font-family: 'Scada';
   font-style: normal;
@@ -87,6 +119,19 @@
   left: 849px;
   top: 714px;
 
+
+
+font-family: 'Scada';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+
   background: #1cf1b1;
   border-radius: 10px;
 }
@@ -105,7 +150,7 @@
   position: absolute;
   width: 155px;
   height: 60px;
-  left: 785px;
+  left: 795px;
   top: 768px;
 
   font-family: 'Scada';
@@ -129,7 +174,16 @@
   height: 55px;
   left: 942px;
   top: 814px;
-
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+  
+  
+  text-align: center;
+  
+  color: #000000;
   background: #1cf1b1;
   border-radius: 10px;
 }
@@ -139,7 +193,11 @@
   height: 274px;
   left: 577px;
   top: 906px;
-  font-size: 24px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
   background: #1cf1b1;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 25px;
@@ -197,3 +255,11 @@
     top: 218px;
     
 }
+.TableDesign{
+  position: absolute;
+  font-family: 'Scada';
+  left:1150px;
+  top: 125px;
+  font-size: 30px;
+}
+

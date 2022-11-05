@@ -1,5 +1,6 @@
 *{
     z-index: 1;
+    text-decoration: none;
 }
 .CreateButton {
     position: absolute;
@@ -50,7 +51,7 @@
     position: absolute;
     width: 462px;
     height: 195px;
-    left: 575px;
+    left: 675px;
     top: 83px;
     
     font-family: 'Grand Hotel';

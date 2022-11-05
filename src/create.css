@@ -60,6 +60,7 @@
   line-height: 60px;
 
   color: #1cf1b1;
+  z-index: 4;
 }
 .ForLinkInput {
   position: absolute;
@@ -76,6 +77,7 @@
   background: #c2fcf3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 25px;
+  z-index: 5;
 }
 .ForImageText {
   position: absolute;
@@ -92,39 +94,8 @@
 
   color: #1cf1b1;
 }
-.uploadbutton {
-  position: absolute;
-  width: 361px;
-  height: 78px;
-  left: 68px;
-  top: 583px;
-  font-family: 'Scada';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 50px;
 
-  background: #c2fcf3;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 25px;
-}
-.submittext {
-  position: absolute;
-  width: 361px;
-  height: 78px;
-  left: 68px;
-  top: 683px;
-  font-family: 'Scada';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 40px;
-  line-height: 50px;
-
-  background: #c2fcf3;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  border-radius: 25px;
-}
-.ForBioText {
+.ForBioInp {
   position: absolute;
   width: 98px;
   height: 52px;
@@ -137,7 +108,7 @@
   font-size: 40px;
   line-height: 50px;
 
-  color: #008b7d;
+  color: #008B7D;;
   z-index: 2;
 }
 .ForBioInput {
@@ -149,8 +120,8 @@
   font-family: 'Scada';
   font-style: normal;
   font-weight: 400;
-  font-size: 40px;
-  line-height: 50px;
+  font-size: 30px;
+  line-height: 60px;
 
   background: #c2fcf3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -183,4 +154,30 @@
     left: 1081px;
     top: 322px;
     
+}
+.imgprev{
+  position: absolute;
+  width: 361px;
+  height: 240px;
+  left: 68px;
+  top: 673px;
+  
+  background: #C2FCF3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.imageinp{
+  position: absolute;
+  width: 361px;
+  height: 78px;
+  left: 68px;
+  top: 583px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 60px;
+  background: #C2FCF3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
 }

@@ -11,7 +11,7 @@ function Homegmc(){
       <a href='/create' >Create</a>
      </button>
      <button className='SignButton'>
-     <a href='/dashboard'>Sign-in</a>
+     <a href='/dashboard'>Log-in</a>
      </button>
      <div className='dgimg'>
      <img className='dogimage' src={dog} height={353} width={352}/>
