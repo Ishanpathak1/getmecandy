@@ -1,0 +1,69 @@
+
+*{
+  z-index: 6;
+
+}
+
+.Title{
+  position: absolute;
+  width: 235px;
+  height: 1px;
+  left: 112px;
+  top: 2px;
+  
+  font-family: 'Grand Hotel';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 45px;
+  line-height: 75px;
+  display: flex;
+  align-items: center;
+  
+  color: #FFFFFF;
+}
+.Dashboard {
+  position: absolute;
+  width: 189px;
+  height: 25.47px;
+  left: 1324px;
+  top: 41.79px;
+
+  font-family: 'Irish Grover';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 44px;
+  display: flex;
+  align-items: center;
+}
+.Dashtext {
+  color: #ffffff;
+}
+.ConnectWalletButtonNav {
+  position: absolute;
+  width: 246px;
+  height: 60px;
+  left: 1513px;
+  top: 25px;
+
+  font-family: 'Graduate';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 27px;
+  text-align: center;
+
+  color: #008b7d;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.candyimg1{
+  position: absolute;
+  width: 70px;
+  height: 71px;
+  left: 32px;
+  top: 20px;
+  
+}

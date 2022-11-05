@@ -1,0 +1,186 @@
+.GlassMorphismrec1 {
+  z-index: 0;
+  position: absolute;
+  width: 831px;
+  height: 801px;
+  left: 44px;
+  top: 137px;
+
+  background: linear-gradient(
+    152.97deg,
+    rgba(21, 21, 21, 0.2) 0%,
+    rgba(21, 21, 21, 0) 100%
+  );
+  backdrop-filter: blur(21px);
+
+  border-radius: 16px;
+}
+.ForCommNameText {
+  position: absolute;
+  width: 146px;
+  height: 72px;
+  left: 78px;
+  top: 165px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 60px;
+
+  color: #1cf1b1;
+}
+.ForCommNameInput {
+  position: absolute;
+  width: 603px;
+  height: 73px;
+  left: 68px;
+  top: 237px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 60px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.ForLinkText {
+  position: absolute;
+  width: 100px;
+  height: 62px;
+  left: 73px;
+  top: 322px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 60px;
+
+  color: #1cf1b1;
+}
+.ForLinkInput {
+  position: absolute;
+  width: 783px;
+  height: 81px;
+  left: 68px;
+  top: 391px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 60px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.ForImageText {
+  position: absolute;
+  width: 265px;
+  height: 72px;
+  left: 73px;
+  top: 509px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  color: #1cf1b1;
+}
+.uploadbutton {
+  position: absolute;
+  width: 361px;
+  height: 78px;
+  left: 68px;
+  top: 583px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.submittext {
+  position: absolute;
+  width: 361px;
+  height: 78px;
+  left: 68px;
+  top: 683px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.ForBioText {
+  position: absolute;
+  width: 98px;
+  height: 52px;
+  left: 478px;
+  top: 557px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  color: #008b7d;
+  z-index: 2;
+}
+.ForBioInput {
+  position: absolute;
+  width: 375px;
+  height: 285px;
+  left: 465px;
+  top: 545px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  z-index: 1;
+}
+.createbutton {
+  position: absolute;
+  width: 299px;
+  height: 67px;
+  left: 557px;
+  top: 858px;
+
+  font-family: 'Graduate';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 46px;
+
+  color: #005950;
+
+  background: #1cf1b1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.rocketimage{
+    position: absolute;
+    width: 481px;
+    height: 481px;
+    left: 1081px;
+    top: 322px;
+    
+}

@@ -1,0 +1,199 @@
+.ForImageOuput {
+  position: absolute;
+  width: 446px;
+  height: 220px;
+  left: 585px;
+  top: 162px;
+
+  background: #1cf1b1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.ForNameOutput {
+  position: absolute;
+  width: 446px;
+  height: 73px;
+  left: 585px;
+  top: 401px;
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 55px;
+  text-align: center;
+
+  color: #008b7d;
+}
+.ForBioOutput {
+  position: absolute;
+  width: 446px;
+  height: 183px;
+  left: 585px;
+  top: 493px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  color: #008b7d;
+}
+.ForCandy {
+  position: absolute;
+  width: 351px;
+  height: 73px;
+  left: 587px;
+  top: 704px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  z-index: 1;
+}
+.candytext {
+  position: absolute;
+  width: 134px;
+  height: 50px;
+  left: 713px;
+  top: 663px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 55px;
+
+  color: #008b7d;
+  z-index: 2;
+}
+.candyimg {
+  position: absolute;
+  width: 50px;
+  height: 53px;
+  left: 601px;
+  top: 713px;
+}
+.smallrec1 {
+  position: absolute;
+  width: 73px;
+  height: 55px;
+  left: 849px;
+  top: 714px;
+
+  background: #1cf1b1;
+  border-radius: 10px;
+}
+.ForSolana {
+  position: absolute;
+  width: 351px;
+  height: 73px;
+  left: 680px;
+  top: 805px;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+}
+.soltext {
+  position: absolute;
+  width: 155px;
+  height: 60px;
+  left: 785px;
+  top: 768px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 55px;
+
+  color: #008b7d;
+}
+.sollogoimg {
+  position: absolute;
+  width: 55px;
+  height: 48px;
+  left: 695px;
+  top: 817px;
+}
+.smallrec2 {
+  position: absolute;
+  width: 73px;
+  height: 55px;
+  left: 942px;
+  top: 814px;
+
+  background: #1cf1b1;
+  border-radius: 10px;
+}
+.ForMessageText {
+  position: absolute;
+  width: 454px;
+  height: 274px;
+  left: 577px;
+  top: 906px;
+  font-size: 24px;
+  background: #1cf1b1;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  z-index: 3;
+}
+.SVL {
+  position: absolute;
+  width: 249px;
+  height: 48px;
+  left: 591px;
+  top: 916px;
+
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 45px;
+
+  color: #945cb0;
+  z-index: 4;
+}
+.sendButton {
+  position: absolute;
+  width: 180.73px;
+  height: 53px;
+  left: 839.47px;
+  top: 1124px;
+  font-family: 'Scada';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 50px;
+
+  color: #008b7d;
+
+  background: #c2fcf3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 25px;
+  z-index: 5;
+}
+.swlimg{
+    position: absolute;
+    width: 615px;
+    height: 655px;
+    left: 1144px;
+    top: 608px;
+
+}
+.phoneimg{
+
+    position: absolute;
+    width: 631px;
+    height: 599px;
+    left: 2px;
+    top: 218px;
+    
+}
